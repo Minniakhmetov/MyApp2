@@ -11,31 +11,32 @@
         android:id="@+id/button_start"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button1"/>
+        android:text="@string/start"/>
 
     <Button
+        android:id="@+id/button_stop"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button2"/>
+        android:text="@string/stop"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button3"/>
+        android:text="@string/button"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button4"/>
+        android:text="@string/button"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button5"/>
+        android:text="@string/button"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button6"/>
+        android:text="@string/button"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button7"/>
+        android:text="@string/button"/>
 
 </LinearLayout>
