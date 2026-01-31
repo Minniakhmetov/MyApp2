@@ -24,9 +24,10 @@
         android:layout_height="wrap_content"
         android:text="@string/delete"/>
     <Button
+        android:id="@+id/button_open"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button"/>
+        android:text="@string/open"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

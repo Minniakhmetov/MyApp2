@@ -32,9 +32,13 @@ class MainActivity : AppCompatActivity() {
         }
 
         val buttonDelete = findViewById<Button>(R.id.button_delete)
-
         buttonDelete.setOnClickListener {
             Toast.makeText(this,"Delete", Toast.LENGTH_SHORT).show()
+        }
+
+        val buttonOpen = findViewById<Button>(R.id.button_open)
+        buttonOpen.setOnClickListener {
+            Toast.makeText(this,"Open", Toast.LENGTH_SHORT).show()
         }
     }
 }
