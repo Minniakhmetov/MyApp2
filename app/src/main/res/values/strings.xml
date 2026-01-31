@@ -3,5 +3,6 @@
 
     <string name="start">Start</string>
     <string name="stop">Stop</string>
+    <string name="delete">Delete</string>
     <string name="button">Button</string>
 </resources>

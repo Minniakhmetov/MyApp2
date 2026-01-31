@@ -21,16 +21,20 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        val buttonSrart = findViewById<Button>(R.id.button_start)
-
-        buttonSrart.setOnClickListener {
+        val buttonStart = findViewById<Button>(R.id.button_start)
+        buttonStart.setOnClickListener {
             Toast.makeText(this,"Start", Toast.LENGTH_SHORT).show()
         }
 
         val buttonStop = findViewById<Button>(R.id.button_stop)
-
         buttonStop.setOnClickListener {
             Toast.makeText(this,"Stop", Toast.LENGTH_SHORT).show()
+        }
+
+        val buttonDelete = findViewById<Button>(R.id.button_delete)
+
+        buttonDelete.setOnClickListener {
+            Toast.makeText(this,"Delete", Toast.LENGTH_SHORT).show()
         }
     }
 }
