@@ -46,3 +46,7 @@ class MainActivity : AppCompatActivity() {
 первые изменения
         вторые изменения
         три
+        4
+        5
+        6
+        7
