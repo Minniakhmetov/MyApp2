@@ -49,4 +49,3 @@ class MainActivity : AppCompatActivity() {
         4
         5
         6
-        8
