@@ -42,6 +42,3 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-400
-        500
-        503
