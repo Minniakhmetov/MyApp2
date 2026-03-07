@@ -1,0 +1,106 @@
+[33m1097e02[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: checkout: moving from dev2 to master
+[33m45b1752[m[33m ([m[1;31morigin/dev2[m[33m, [m[1;32mdev2[m[33m)[m HEAD@{1}: checkout: moving from master to dev2
+[33m1097e02[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: rebase (finish): returning to refs/heads/master
+[33m1097e02[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: rebase (start): checkout origin/master
+[33mdd065af[m HEAD@{4}: reset: moving to HEAD~1
+[33m1097e02[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{5}: merge origin/master: Fast-forward
+[33mdd065af[m HEAD@{6}: reset: moving to HEAD~1
+[33m1097e02[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{7}: reset: moving to HEAD
+[33m1097e02[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{8}: merge origin/master: Fast-forward
+[33m45b1752[m[33m ([m[1;31morigin/dev2[m[33m, [m[1;32mdev2[m[33m)[m HEAD@{9}: reset: moving to 45b1752
+[33m1097e02[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{10}: merge origin/master: Fast-forward
+[33m51ce9e3[m HEAD@{11}: checkout: moving from dev2 to master
+[33m45b1752[m[33m ([m[1;31morigin/dev2[m[33m, [m[1;32mdev2[m[33m)[m HEAD@{12}: commit: 23
+[33mc95e983[m HEAD@{13}: commit: 22
+[33m56458df[m HEAD@{14}: commit: 21
+[33mdd065af[m HEAD@{15}: checkout: moving from master to dev2
+[33m51ce9e3[m HEAD@{16}: checkout: moving from dev to master
+[33m67a54e3[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{17}: checkout: moving from master to dev
+[33m51ce9e3[m HEAD@{18}: checkout: moving from dev to master
+[33m67a54e3[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{19}: merge origin/dev: Fast-forward
+[33m6245f0e[m HEAD@{20}: merge origin/dev: Merge made by the 'ort' strategy.
+[33m9b19488[m HEAD@{21}: commit (amend): 13
+[33m5adc7f2[m HEAD@{22}: checkout: moving from master to dev
+[33m51ce9e3[m HEAD@{23}: merge origin/master: Fast-forward
+[33m52e67a5[m HEAD@{24}: checkout: moving from dev to master
+[33m5adc7f2[m HEAD@{25}: commit: 13
+[33m55bd651[m HEAD@{26}: commit: 12
+[33m8bdfe14[m HEAD@{27}: commit: 11
+[33m828f990[m HEAD@{28}: commit: 10
+[33m52e67a5[m HEAD@{29}: checkout: moving from master to dev
+[33m52e67a5[m HEAD@{30}: commit: 6
+[33mc7d7c56[m HEAD@{31}: checkout: moving from nnn to master
+[33mdbb3c94[m HEAD@{32}: checkout: moving from master to nnn
+[33mc7d7c56[m HEAD@{33}: commit: 8
+[33mdde8005[m HEAD@{34}: merge origin/master: Fast-forward
+[33m3c95abc[m HEAD@{35}: checkout: moving from nnn to master
+[33mdbb3c94[m HEAD@{36}: commit (amend): 6
+[33m3a0370b[m HEAD@{37}: checkout: moving from master to nnn
+[33m3c95abc[m HEAD@{38}: checkout: moving from nnn to master
+[33m3a0370b[m HEAD@{39}: checkout: moving from master to nnn
+[33m3c95abc[m HEAD@{40}: checkout: moving from nnn to master
+[33m3a0370b[m HEAD@{41}: checkout: moving from master to nnn
+[33m3c95abc[m HEAD@{42}: checkout: moving from nnn to master
+[33m3a0370b[m HEAD@{43}: checkout: moving from master to nnn
+[33m3c95abc[m HEAD@{44}: checkout: moving from nnn to master
+[33m3a0370b[m HEAD@{45}: checkout: moving from master to nnn
+[33m3c95abc[m HEAD@{46}: checkout: moving from nnn to master
+[33m3a0370b[m HEAD@{47}: checkout: moving from master to nnn
+[33m3c95abc[m HEAD@{48}: checkout: moving from nnn to master
+[33m3a0370b[m HEAD@{49}: checkout: moving from master to nnn
+[33m3c95abc[m HEAD@{50}: checkout: moving from new_new_dev to master
+[33m3c95abc[m HEAD@{51}: checkout: moving from master to new_new_dev
+[33m3c95abc[m HEAD@{52}: checkout: moving from new_new_dev to master
+[33m3c95abc[m HEAD@{53}: merge master: Fast-forward
+[33m3a0370b[m HEAD@{54}: checkout: moving from master to new_new_dev
+[33m3c95abc[m HEAD@{55}: checkout: moving from new_new_dev to master
+[33m3a0370b[m HEAD@{56}: checkout: moving from new_dev_2 to new_new_dev
+[33m95aa091[m HEAD@{57}: commit: 7
+[33m3a0370b[m HEAD@{58}: commit: 6
+[33mbbe0c66[m HEAD@{59}: checkout: moving from master to new_dev_2
+[33mbbe0c66[m HEAD@{60}: merge origin/master: Fast-forward
+[33mc923b68[m HEAD@{61}: checkout: moving from new_dev to master
+[33m67981a2[m HEAD@{62}: commit: 5
+[33m0b99d77[m HEAD@{63}: checkout: moving from master to new_dev
+[33mc923b68[m HEAD@{64}: checkout: moving from первый to master
+[33m0b99d77[m HEAD@{65}: commit: 4
+[33m1f7c055[m HEAD@{66}: checkout: moving from master to первый
+[33mc923b68[m HEAD@{67}: commit: 4
+[33m840acad[m HEAD@{68}: merge origin/master: Fast-forward
+[33m1f7c055[m HEAD@{69}: reset: moving to 1f7c055999e3dacd23c5ced2c512f703710d7950
+[33md0aa34d[m HEAD@{70}: reset: moving to d0aa34dae811b6b1aa21f62f3d8ec0538c1747a6
+[33md0aa34d[m HEAD@{71}: reset: moving to d0aa34dae811b6b1aa21f62f3d8ec0538c1747a6
+[33m840acad[m HEAD@{72}: checkout: moving from первый to master
+[33m1f7c055[m HEAD@{73}: commit: три
+[33md0aa34d[m HEAD@{74}: commit: два
+[33mb0804b3[m HEAD@{75}: checkout: moving from master to первый
+[33mf5b7509[m HEAD@{76}: checkout: moving from первый to master
+[33mb0804b3[m HEAD@{77}: checkout: moving from master to первый
+[33mf72ef51[m HEAD@{78}: checkout: moving from первый to master
+[33mb0804b3[m HEAD@{79}: checkout: moving from master to первый
+[33mf72ef51[m HEAD@{80}: checkout: moving from первый to master
+[33mb0804b3[m HEAD@{81}: commit: 1
+[33mf72ef51[m HEAD@{82}: checkout: moving from master to первый
+[33mf72ef51[m HEAD@{83}: merge origin/master: Merge made by the 'ort' strategy.
+[33m8bd1d55[m HEAD@{84}: commit (amend): Merge pull request #5 from Minniakhmetov/dev
+[33maa98a4c[m HEAD@{85}: checkout: moving from dev to master
+[33mecaae82[m HEAD@{86}: checkout: moving from 9_4 to dev
+[33m2168024[m HEAD@{87}: checkout: moving from master to 9_4
+[33mced1be0[m HEAD@{88}: checkout: moving from 9_3 to master
+[33me14be0f[m HEAD@{89}: commit: 9_3
+[33m2168024[m HEAD@{90}: checkout: moving from master to 9_3
+[33mced1be0[m HEAD@{91}: checkout: moving from dev to master
+[33mecaae82[m HEAD@{92}: commit: 9_2
+[33m2168024[m HEAD@{93}: commit: 9_1
+[33m3a26fbe[m HEAD@{94}: commit: add button open
+[33md84e536[m HEAD@{95}: commit: add buton delete
+[33m991fdeb[m HEAD@{96}: checkout: moving from master to dev
+[33m991fdeb[m HEAD@{97}: merge origin/master: Fast-forward
+[33m6c475ca[m HEAD@{98}: checkout: moving from dev to master
+[33me8a60cb[m HEAD@{99}: commit: перенос строк в ресурсы (strings)
+[33m9f07b71[m HEAD@{100}: commit: relased button_stop
+[33m1affbb7[m HEAD@{101}: commit: relased button_sart
+[33m3e4d516[m HEAD@{102}: commit: add 3 buttons
+[33m3afea15[m HEAD@{103}: commit: add buttons
+[33mcdbc2cd[m HEAD@{104}: checkout: moving from master to dev
+[33mcdbc2cd[m HEAD@{105}: commit (initial): Initial commit
