@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         val buttonStart = findViewById<Button>(R.id.button_start)
         buttonStart.setOnClickListener {
             Toast.makeText(this, "Start", Toast.LENGTH_SHORT).show()
-        }
+         }
 
         val buttonStop = findViewById<Button>(R.id.button_stop)
         buttonStop.setOnClickListener {
